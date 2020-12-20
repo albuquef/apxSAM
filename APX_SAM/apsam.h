@@ -47,6 +47,7 @@ public:
 
 private:
     const Leitor *rd;
+    bool saveSol;
 
 
 };
